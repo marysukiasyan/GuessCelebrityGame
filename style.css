@@ -1,0 +1,87 @@
+.startButton{
+    border-radius: 7px ;
+    height: 100px;
+    width: 400px;
+    margin: 10px auto;
+    font-size: 20px;
+
+
+}
+
+.startDiv{
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+body{
+    background: url('background1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.heading{
+    padding: 20px auto;
+}
+
+
+.headingBlock{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.imgStyle{
+    height: 400px;
+    border-radius: 7px;
+
+
+
+}
+
+.imageBlock{
+    height: 400px;
+    
+    text-align: center;
+    ;
+}
+
+
+
+
+.nextButtonBlock{
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#nameButton{
+    visibility: hidden;
+    color: black;
+}
+
+#wrongNameButton{
+    visibility: hidden;
+    color: black; 
+    
+}
+
+
+
+#finalResult{
+    text-align: center;
+    font-size: 20px;    
+}
+
+.links{
+    text-align: center;
+}
+
+.choiceButton{
+    border-radius: 7px;
+    border: none;
+    font-size: 14px;
+    height: 50px;
+    width: 150px;
+    margin: 5px auto;
+}
